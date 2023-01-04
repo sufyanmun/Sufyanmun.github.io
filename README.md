@@ -1,14 +1,13 @@
 <h1> Portfolio </h2>
-Welcome to my portfolio! My name is Sufyan Mun and I am a Data Analyst/Consultant with strong skills in SQL, Python, and data visualization. <br>
+Welcome to my portfolio! My name is Sufyan Mun and I am a Data Analyst/Consultant with strong skills in SQL, Python, and data visualization. Currently, working on some React Projects and honing my JavaScript skills<br>
 
 <h2> Skills </h2>
 <li> Proficient in SQL, with experience in data manipulation, aggregation, and joining tables </li>
 <li>Experienced in Python, with a focus on data analysis and machine learning using libraries such as pandas, scikit-learn, and numpy </li>
 <li> Skilled in data visualization using Python libraries such as matplotlib, seaborn, and plotly </li>
-<li> Currently, working on some React Projects and honing my JavaScript skills </li>
 
 <h2> Projects </h2>
-<b> Project 1: </b> - In a portfolio project, I used SQL and Tableau to analyze and visualize hotel booking data, gaining insights on booking trends and customer behavior. My skills in SQL, data management, and visualization were demonstrated in this project. <br> <br>
+<b> Project 1: </b> - I created a Airbnb-clone using ReactJS, TailwindCSS, & Next.JS. The website is fully responsive with subtle details added into the buttons, shading, and layout.<br> <br>
 
 <b> Project 2: </b> - I used machine learning to predict used car prices by training a linear regression model in R and evaluating its accuracy with R-Squared. This demonstrated my understanding of machine learning concepts and my ability to use R for data analysis and modeling. <br>
 
