@@ -5,6 +5,7 @@ Welcome to my portfolio! My name is Sufyan Mun and I am a Data Analyst/Consultan
 <li> Proficient in SQL, with experience in data manipulation, aggregation, and joining tables </li>
 <li>Experienced in Python, with a focus on data analysis and machine learning using libraries such as pandas, scikit-learn, and numpy </li>
 <li> Skilled in data visualization using Python libraries such as matplotlib, seaborn, and plotly </li>
+<li> Currently, working on some React Projects and honing my JavaScript skills </li>
 
 <h2> Projects </h2>
 <b> Project 1: </b> - In a portfolio project, I used SQL and Tableau to analyze and visualize hotel booking data, gaining insights on booking trends and customer behavior. My skills in SQL, data management, and visualization were demonstrated in this project. <br> <br>
